@@ -1,15 +1,28 @@
-# 👋 Hi, I’m @HamedBenALi
+👋 Hi, I'm Hamed Shaaban
 
-- 👀 I’m passionate about the world of Data (analysis - eng)
-- 🌱 Currently immersed in the exciting journey of learning Data engineering
-- 💞️ I’m eager to collaborate on innovative projects spanning data, machine learning, data science, data analysis, and business intelligence.
-- 📫 Let's connect and explore opportunities together:
-  - Email: [hamedali6320@gmail.com](mailto:hamedali6320@gmail.com)
-  - LinkedIn: [Hamed Shaaban](https://www.linkedin.com/in/hamed-shaaban-83781b257/)
+🚀 Data Engineer | Data Analyst
 
-Join me in leveraging the power of data to unravel insights, make informed decisions, and drive meaningful change. Looking forward to connecting with like-minded enthusiasts and professionals!
+I'm passionate about building data-driven solutions that transform raw information into actionable insights and intelligent products.
 
-<!---
-HamedBenALi/HamedBenALi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡 About Me
+💼 Data Engineer & Reporting Consultant with experience in banking systems and regulatory reporting.
+📊 Skilled in SQL, Python, Power BI, ETL development, and data warehousing.
+🤖 Interested in Artificial Intelligence, Machine Learning, Automation, and Data Engineering.
+🌱 Continuously learning and exploring modern data architectures, cloud technologies, and AI applications.
+💞️ Open to collaborating on projects involving Data Engineering, Analytics, AI, Machine Learning, and Business Intelligence.
+
+🛠️ Tech Stack
+
+Languages: Python, SQL
+Data: ETL, Data Warehousing, Data Pipelines
+Analytics: Power BI, Data Visualization, Reporting
+Databases: PostgreSQL, SQL Server, Oracle
+AI & ML: Machine Learning, LLM Applications
+Tools: Git, GitHub, Jira
+
+📫 Connect With Me
+
+ 📧 Email: [hamedali6320@gmail.com](mailto:hamedali6320@gmail.com)
+💼 LinkedIn: [www.linkedin.com/in/hamed-shaaban-83781b257](http://www.linkedin.com/in/hamed-shaaban-83781b257)
+
+"Turning data into insights and ideas into products."
